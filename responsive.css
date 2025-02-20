@@ -1,0 +1,314 @@
+@media (max-width: 786px) {
+ 
+.main_head a {
+	font-family: "Roboto", serif;
+}
+
+.main_banner {
+	background: url(./img/banner.jpg) center center;
+	background-size: cover;
+	min-height: 300px;
+}
+
+.banner_head h2 {
+	color: #fff;
+    font-size: 22px;
+	line-height: 32px;
+	padding: 100px;
+	text-align: center;
+	font-family: "Roboto", serif;
+}
+
+.main_products {
+	padding: 8px 0;
+}
+
+.product_list {
+	padding: 40px 0;
+}
+
+.product_list h3 {
+	text-align: center;
+	color: #f31c19;
+	text-transform: capitalize;
+}
+
+.card_border {
+	display: block;
+	padding: 0;
+	margin: 0 auto;
+    text-align: center;
+}
+
+.card_inner {
+	display: flex;
+	vertical-align: top;
+	display: inline-block;
+	width: 49%;
+    padding: 10px 0; 
+}
+
+.card_inner img {
+	margin: 0 auto;
+	width: 90%;
+	text-align: center;
+}
+
+.card_inner p {
+	font-size: 18px;
+	color: #bc230b;
+	line-height: 32px;
+	font-family: "Roboto", serif;
+	font-weight: 600;
+	text-transform: capitalize;
+}
+
+.btn-success {
+	margin-left: 20px;
+	text-align: center;
+	font-size: 14px;
+	color: #2e7b08;
+	display: block;
+	line-height: 32px;
+	font-family: "Roboto", serif;
+	text-transform: capitalize;
+}
+
+.select {
+	border: 1px solid #c3c3c3;
+	font-family: "Roboto", serif;
+}
+
+.option {
+	font-family: "Roboto", serif;
+}
+
+.differ {
+	padding: 5px 0;
+}
+
+.left_contact {
+ width: 100%;
+ margin: 0 auto;
+ text-align: center;
+}
+
+.right_contact {
+    text-align: center;
+    width: 100%;
+}
+
+.right_contact {
+	font-size: 16px;
+	line-height: 24px;
+	color: #2e7b08;
+}	
+}
+
+
+@media (max-width: 600px) {
+
+    .main_banner {
+        background: url(./img/banner.jpg) center center;
+        background-size: cover;
+        min-height: 200px;
+    }
+    
+    .banner_head h2 {
+        color: #fff;
+        font-size: 18px;
+        line-height: 22px;
+        padding: 80px;
+        text-align: center;
+        font-family: "Roboto", serif;
+    }
+    
+    .main_products {
+        padding: 5px 0;
+    }
+    
+    .product_list {
+        padding: 30px 0;
+    }
+    
+    .product_list h3 {
+        text-align: center;
+        color: #f31c19;
+        text-transform: capitalize;
+    }
+    
+    .card_border {
+        display: block;
+        padding: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .card_inner {
+        display: flex;
+        vertical-align: top;
+        display: inline-block;
+        width: 100%;
+        padding: 10px 0; 
+    }
+    
+    .card_inner img {
+        margin: 0 auto;
+        width: 90%;
+        text-align: center;
+    }
+    
+    .card_inner p {
+        font-size: 16px;
+        color: #bc230b;
+        line-height: 32px;
+        font-family: "Roboto", serif;
+        font-weight: 600;
+        text-transform: capitalize;
+    }
+    
+    .btn-success {
+        margin-left: 16px;
+        text-align: center;
+        font-size: 12px;
+        color: #2e7b08;
+        display: block;
+        line-height: 32px;
+        font-family: "Roboto", serif;
+        text-transform: capitalize;
+    }
+    
+    .select {
+        border: 1px solid #c3c3c3;
+        font-family: "Roboto", serif;
+    }
+    
+    .option {
+        font-family: "Roboto", serif;
+    }
+    
+    .differ {
+        padding: 5px 0;
+    }
+    
+    .left_contact {
+     width: 100%;
+     margin: 0 auto;
+     text-align: center;
+    }
+    
+    .right_contact {
+        text-align: center;
+        width: 100%;
+    }
+    
+    .right_contact {
+        font-size: 14px;
+        line-height: 24px;
+        color: #2e7b08;
+    }
+}
+
+@media   (max-width: 480px) {
+
+    .main_banner {
+        background: url(./img/banner.jpg) center center;
+        background-size: cover;
+        min-height: 200px;
+    }
+    
+    .banner_head h2 {
+        color: #fff;
+        font-size: 18px;
+        line-height: 22px;
+        padding: 80px;
+        text-align: center;
+        font-family: "Roboto", serif;
+    }
+    
+    .main_products {
+        padding: 5px 0;
+    }
+    
+    .product_list {
+        padding: 30px 0;
+    }
+    
+    .product_list h3 {
+        text-align: center;
+        color: #f31c19;
+        text-transform: capitalize;
+    }
+    
+    .card_border {
+        display: block;
+        padding: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .card_inner {
+        display: flex;
+        vertical-align: top;
+        display: inline-block;
+        width: 100%;
+        padding: 10px 0; 
+    }
+    
+    .card_inner img {
+        margin: 0 auto;
+        width: 90%;
+        text-align: center;
+    }
+    
+    .card_inner p {
+        font-size: 16px;
+        color: #bc230b;
+        line-height: 32px;
+        font-family: "Roboto", serif;
+        font-weight: 600;
+        text-transform: capitalize;
+    }
+    
+    .btn-success {
+        margin-left: 16px;
+        text-align: center;
+        font-size: 12px;
+        color: #2e7b08;
+        display: block;
+        line-height: 32px;
+        font-family: "Roboto", serif;
+        text-transform: capitalize;
+    }
+    
+    .select {
+        border: 1px solid #c3c3c3;
+        font-family: "Roboto", serif;
+    }
+    
+    .option {
+        font-family: "Roboto", serif;
+    }
+    
+    .differ {
+        padding: 5px 0;
+    }
+    
+    .left_contact {
+     width: 100%;
+     margin: 0 auto;
+     text-align: center;
+    }
+    
+    .right_contact {
+        text-align: center;
+        width: 100%;
+    }
+    
+    .right_contact {
+        font-size: 14px;
+        line-height: 24px;
+        color: #2e7b08;
+    }
+}
+

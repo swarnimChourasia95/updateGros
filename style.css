@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.maincontainer {
+	max-width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.wrap {
+	max-width: 1250px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.clr {
+	clear: both;
+}
+
+.main_head a {
+	font-family: "Roboto", serif;
+}
+
+.main_banner {
+	background: url(./img/banner.jpg) center center;
+	background-size: cover;
+	min-height: 400px;
+}
+
+.banner_head h2 {
+	color: #fff;
+	line-height: 36px;
+	padding: 200px;
+	text-align: center;
+	font-family: "Roboto", serif;
+}
+
+.main_products {
+	padding: 10px 0;
+}
+
+.product_list {
+	padding: 50px 0;
+}
+
+.product_list h3 {
+	text-align: center;
+	color: #f31c19;
+	text-transform: capitalize;
+}
+
+.card_border {
+	display: block;
+	padding: 0;
+	margin: 0 auto;
+}
+
+.card_inner {
+	display: flex;
+	vertical-align: top;
+	display: inline-block;
+	width: 24%;
+}
+
+.card_inner img {
+	margin: 0 auto;
+	width: 90%;
+	text-align: center;
+}
+
+.card_inner p {
+	font-size: 20px;
+	color: #bc230b;
+	line-height: 36px;
+	font-family: "Roboto", serif;
+	font-weight: 600;
+	text-transform: capitalize;
+}
+
+.btn-success {
+	margin-left: 40px;
+	text-align: center;
+	font-size: 16px;
+	color: #2e7b08;
+	display: block;
+	line-height: 36px;
+	font-family: "Roboto", serif;
+	text-transform: capitalize;
+}
+
+.select {
+	border: 1px solid #c3c3c3;
+	font-family: "Roboto", serif;
+}
+
+.option {
+	font-family: "Roboto", serif;
+}
+
+.differ {
+	padding: 20px 0;
+}
+
+.left_contact {
+	float: left;
+	width: 40%;
+}
+
+.right_contact {
+	float: right;
+	width: 40%;
+}
+
+.right_contact {
+	font-size: 18px;
+	line-height: 26px;
+	color: #2e7b08;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
